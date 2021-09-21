@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Destiny 2
+//Juan Lopez 
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (enemy player shoots me) {
+    //shoot back 
 } else {
-    //Add event below
+    //find enemy to shoot
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (enemy player activates super) {
+    //run away
 } else {
-    //Add event below
+    //shoot enemy until he dies
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (objective B flag isnt captured) {
+    //capture B flag
 } else {
-    //Add event below
+    //push to objective C flag
 }
 
 
